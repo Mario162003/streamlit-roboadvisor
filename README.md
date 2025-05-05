@@ -1,9 +1,3 @@
-Perfecto. Aquí tienes un `README.md` profesional en inglés para tu nuevo repositorio `streamlit-roboadvisor`. Está diseñado para presentar el proyecto de forma clara y atractiva, tanto si lo compartes con profesores, reclutadores o usuarios finales.
-
----
-
-## 🧾 `README.md` (colócalo en la raíz del proyecto)
-
 ````markdown
 # 🤖 Streamlit Robo-Advisor – Risk Profiling & Investment Simulator
 
