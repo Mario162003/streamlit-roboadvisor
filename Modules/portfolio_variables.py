@@ -198,7 +198,7 @@ list_of_not_bench = not_bench_stocks_df['Benchmark Ticker'].tolist()
 # %%
 # I begin by loading the stock prices and bond prices data from CSV files, specifying 'Date' as the index for stocks prices
 stocks_prices = pd.read_csv("data/ETF_STOCK_prices_available_bench.csv", index_col='Date')  # Loading stock prices with 'Date' as the index
-stocks_prices_bench = pd.read_csv("data\ETF_STOCK_prices_bench.csv")  # Loading benchmark stock prices, no specific index
+stocks_prices_bench = pd.read_csv("data/ETF_STOCK_prices_bench.csv")  # Loading benchmark stock prices, no specific index
 bonds_prices = pd.read_csv("data/ETF_BONDS_prices.csv")  # Loading bond prices
 
 # I calculate the log returns for the stock prices, bond prices, and benchmark stock prices.
