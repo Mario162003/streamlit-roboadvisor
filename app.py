@@ -952,81 +952,94 @@ if "backtest_hist" in st.session_state:
     st.altair_chart(bar_chart, use_container_width=True)
 
 
-    import pdfkit
+    import os
     from jinja2 import Template
-    import tempfile
 
-# 1. Crear plantilla HTML
-    pdf_template = """
-    <!DOCTYPE html>
-    <html>
-    <head>
-        <meta charset="utf-8">
-        <title>Reporte de inversión</title>
-        <style>
-            body { font-family: Arial, sans-serif; padding: 20px; font-size: 14px; }
-            h1, h2 { color: #4CAF50; }
-            table { width: 100%%; border-collapse: collapse; margin-top: 15px; }
-            th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-        </style>
-    </head>
-    <body>
-        <h1>{{ title }}</h1>
-        <h2>📌 Perfil de riesgo: {{ profile }} (score: {{ score }})</h2>
+    # Detectar si estamos en Streamlit Cloud
+    is_cloud = os.environ.get("STREAMLIT_SERVER_HEADLESS") == "1"
 
-        <p><strong>Horizonte de análisis:</strong> {{ horizon }} días hábiles</p>
-        <table>
-            <tr><th>Métrica</th><th>Valor</th></tr>
-            <tr><td><strong>Ganancia neta</strong></td><td>€{{ gain }}</td></tr>
-            <tr><td><strong>Valor del portfolio</strong></td><td>€{{ portfolio_value }}</td></tr>
-            <tr><td><strong>Total invertido</strong></td><td>€{{ invested }}</td></tr>
-            <tr><td><strong>Retorno</strong></td><td>{{ return_pct }}%</td></tr>
-            <tr><td><strong>VaR (95%)</strong></td><td>€{{ var_95 }}</td></tr>
-            <tr><td><strong>Ganancia esperada</strong></td><td>€{{ expected_gain }}</td></tr>
-        </table>
+    if not is_cloud:
+        import pdfkit
+        import tempfile
 
-        <h2>🧠 Interpretaciones</h2>
-        <p>{{ var_text }}</p>
-        <p>{{ mu_text }}</p>
-    </body>
-    </html>
-"""
-    gain = net_gain.iloc[-1] if hasattr(net_gain, 'iloc') else net_gain[-1]
-    
-    var_text, mu_text = get_html_interpretations(
-    wc=wc,
-    mu_p=mu_p,
-    horizon=horizon,
-    risk_profile=st.session_state.get("risk_profile", "Desconocido"),
-    lang=st.session_state.lang
-    )
+        # 1. Crear plantilla HTML
+        pdf_template = """
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="utf-8">
+            <title>Reporte de inversión</title>
+            <style>
+                body { font-family: Arial, sans-serif; padding: 20px; font-size: 14px; }
+                h1, h2 { color: #4CAF50; }
+                table { width: 100%%; border-collapse: collapse; margin-top: 15px; }
+                th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+            </style>
+        </head>
+        <body>
+            <h1>{{ title }}</h1>
+            <h2>📌 Perfil de riesgo: {{ profile }} (score: {{ score }})</h2>
 
+            <p><strong>Horizonte de análisis:</strong> {{ horizon }} días hábiles</p>
+            <table>
+                <tr><th>Métrica</th><th>Valor</th></tr>
+                <tr><td><strong>Ganancia neta</strong></td><td>€{{ gain }}</td></tr>
+                <tr><td><strong>Valor del portfolio</strong></td><td>€{{ portfolio_value }}</td></tr>
+                <tr><td><strong>Total invertido</strong></td><td>€{{ invested }}</td></tr>
+                <tr><td><strong>Retorno</strong></td><td>{{ return_pct }}%</td></tr>
+                <tr><td><strong>VaR (95%)</strong></td><td>€{{ var_95 }}</td></tr>
+                <tr><td><strong>Ganancia esperada</strong></td><td>€{{ expected_gain }}</td></tr>
+            </table>
 
-    # 2. Rellenar con tus variables
-    template = Template(pdf_template)
-    html_filled = template.render(
-        title="Informe de Simulación de Inversión" if lang == "ES" else "Investment Simulation Report",
-        profile=st.session_state.get("risk_profile", "Desconocido"),
-        score=st.session_state.get("risk_score", "-"),
-        horizon=horizon,
-        gain=f"{gain:,.2f}",
-        portfolio_value=f"{pv_series[-1]:,.0f}",
-        invested=f"{invested_series[-1]:,.0f}",
-        return_pct=f"{metrics_df.loc['Cumulative Return', 'Mi Portafolio' if lang == 'ES' else 'My Portfolio'] * 100:,.2f}",
-        var_95=f"{wc:,.0f}",
-        expected_gain=f"{mu_p:,.0f}",
-        var_text=var_text,
-        mu_text = mu_text)
-    
+            <h2>🧠 Interpretaciones</h2>
+            <p>{{ var_text }}</p>
+            <p>{{ mu_text }}</p>
+        </body>
+        </html>
+        """
 
-    # 3. Convertir a PDF y generar botón
-    with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_pdf:
-        pdfkit.from_string(html_filled, tmp_pdf.name)
-        with open(tmp_pdf.name, "rb") as file:
-            btn_label = "📥 Descargar resumen PDF" if lang == "ES" else "📥 Download PDF summary"
-            st.download_button(
-                label=btn_label,
-                data=file,
-                file_name="reporte_inversion_2020-2025.pdf",
-                mime="application/pdf"
-            )
+        gain = net_gain.iloc[-1] if hasattr(net_gain, 'iloc') else net_gain[-1]
+        
+        var_text, mu_text = get_html_interpretations(
+            wc=wc,
+            mu_p=mu_p,
+            horizon=horizon,
+            risk_profile=st.session_state.get("risk_profile", "Desconocido"),
+            lang=lang
+        )
+
+        # 2. Rellenar con tus variables
+        template = Template(pdf_template)
+        html_filled = template.render(
+            title="Informe de Simulación de Inversión" if lang == "ES" else "Investment Simulation Report",
+            profile=st.session_state.get("risk_profile", "Desconocido"),
+            score=st.session_state.get("risk_score", "-"),
+            horizon=horizon,
+            gain=f"{gain:,.2f}",
+            portfolio_value=f"{pv_series[-1]:,.0f}",
+            invested=f"{invested_series[-1]:,.0f}",
+            return_pct=f"{metrics_df.loc['Cumulative Return', 'Mi Portafolio' if lang == 'ES' else 'My Portfolio'] * 100:,.2f}",
+            var_95=f"{wc:,.0f}",
+            expected_gain=f"{mu_p:,.0f}",
+            var_text=var_text,
+            mu_text=mu_text
+        )
+
+        # 3. Convertir a PDF y generar botón
+        if st.button("📥 Descargar resumen PDF" if lang == "ES" else "📥 Download PDF summary"):
+            with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_pdf:
+                pdfkit.from_string(html_filled, tmp_pdf.name)
+                with open(tmp_pdf.name, "rb") as file:
+                    st.download_button(
+                        label="📥 Descargar PDF" if lang == "ES" else "📥 Download PDF",
+                        data=file,
+                        file_name="reporte_inversion_2020-2025.pdf",
+                        mime="application/pdf"
+                    )
+
+    else:
+        st.warning(
+            "⚠️ La generación de PDF está solo disponible cuando ejecutas esta app desde tu ordenador."
+            if lang == "ES"
+            else "⚠️ PDF generation is only available when running this app locally."
+        )
