@@ -59,32 +59,3 @@ streamlit_roboadvisor/
 * PDFKit + Jinja2
 
 ```
-
----
-
-## ✅ Ahora sí: veamos el paso siguiente
-
-### 2. 🌐 Ve a [https://streamlit.io/cloud](https://streamlit.io/cloud)
-
-Haz lo siguiente:
-
-1. Inicia sesión con tu cuenta de GitHub
-2. Haz clic en **"New app"**
-3. En el desplegable, selecciona tu nuevo repo:  
-   `Mario162003/streamlit-roboadvisor`
-4. Asegúrate de rellenar estos campos:
-
-| Campo              | Valor            |
-|--------------------|------------------|
-| **Branch**         | `main`           |
-| **Main file path** | `app.py`         |
-
-5. Haz clic en **Deploy**
-
-En unos segundos tendrás una app pública con una URL como:
-
-```
-
-[https://mario162003-streamlit-roboadvisor.streamlit.app](https://mario162003-streamlit-roboadvisor.streamlit.app)
-
-```
