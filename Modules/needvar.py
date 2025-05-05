@@ -1,5 +1,9 @@
 # %%
-
+from Modules.plots_fx import *
+from Modules.portfolioconstruction_fx import *
+from Modules.score_fx import *
+#warnings.filterwarnings('ignore')
+from Modules.portfolio_variables import *
 # %%
 #recommendation = get_portfolio_recommendation_profiled(user_risk_profile, results_v9)
 # Filter the benchmark data to include only the selected stocks from the portfolio

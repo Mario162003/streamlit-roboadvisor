@@ -1012,7 +1012,7 @@ if "backtest_hist" in st.session_state:
         gain=f"{gain:,.2f}",
         portfolio_value=f"{pv_series[-1]:,.0f}",
         invested=f"{invested_series[-1]:,.0f}",
-        return_pct=f"{metrics_df.loc['Cumulative Return', 'Mi Portafolio']*100:,.2f}",
+        return_pct=f"{metrics_df.loc['Cumulative Return', 'Mi Portafolio' if lang == 'ES' else 'My Portfolio'] * 100:,.2f}",
         var_95=f"{wc:,.0f}",
         expected_gain=f"{mu_p:,.0f}",
         var_text=var_text,

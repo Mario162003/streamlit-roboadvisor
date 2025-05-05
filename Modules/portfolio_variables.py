@@ -1,4 +1,5 @@
-
+from Modules.plots_fx import *
+from Modules.portfolio_opt import *
 # %% [markdown]
 # # **ASSUMPTIONS**
 # 

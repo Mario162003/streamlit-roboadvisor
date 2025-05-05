@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#4CAF50"                # Verde para botones y acentos
+backgroundColor="#e6f4ea"             # Fondo principal (verde muy claro)
+secondaryBackgroundColor="#d4edda"    # Fondo sidebar y bloques secundarios
+textColor="#1c1c1c"                   # Gris oscuro para buena legibilidad
+font="sans serif"
