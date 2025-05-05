@@ -114,9 +114,9 @@ from Modules.portfolio_opt import *
 
 # %%
 # I set the df where all the ETFs are and would be analyzed in order to choose the best ones for our portfolio
-df_equity = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\FINAL_DEGREE_PROJECT\duplicados\ETFs_equity_limpio.csv")
-df_bonds = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\FINAL_DEGREE_PROJECT\duplicados\ETFs_bonds_limpio.csv")
-df_joined = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\FINAL_DEGREE_PROJECT\duplicados\ETFs_equity_bonds_unido.csv")
+df_equity = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\streamlit_roboadvisor\data\ETFs_equity_limpio.csv")
+df_bonds = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\streamlit_roboadvisor\data\ETFs_bonds_limpio.csv")
+df_joined = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\streamlit_roboadvisor\data\ETFs_equity_bonds_unido.csv")
 
 # I filter the necessary columns
 necessary_columns = [
@@ -197,9 +197,9 @@ list_of_not_bench = not_bench_stocks_df['Benchmark Ticker'].tolist()
 
 # %%
 # I begin by loading the stock prices and bond prices data from CSV files, specifying 'Date' as the index for stocks prices
-stocks_prices = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\FINAL_DEGREE_PROJECT\duplicados\ETF_STOCK_prices_available_bench.csv", index_col='Date')  # Loading stock prices with 'Date' as the index
-stocks_prices_bench = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\FINAL_DEGREE_PROJECT\duplicados\ETF_STOCK_prices_bench.csv")  # Loading benchmark stock prices, no specific index
-bonds_prices = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\FINAL_DEGREE_PROJECT\duplicados\ETF_BONDS_prices.csv")  # Loading bond prices
+stocks_prices = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\streamlit_roboadvisor\data\ETF_STOCK_prices_available_bench.csv", index_col='Date')  # Loading stock prices with 'Date' as the index
+stocks_prices_bench = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\streamlit_roboadvisor\data\ETF_STOCK_prices_bench.csv")  # Loading benchmark stock prices, no specific index
+bonds_prices = pd.read_csv(r"C:\Users\macar\OneDrive\Escritorio\streamlit_roboadvisor\data\ETF_BONDS_prices.csv")  # Loading bond prices
 
 # I calculate the log returns for the stock prices, bond prices, and benchmark stock prices.
 # Log returns are calculated using the formula: log(1 + pct_change()) and then drop any NaN values that result from pct_change() or initial rows

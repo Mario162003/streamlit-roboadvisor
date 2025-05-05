@@ -1,0 +1,515 @@
+Symbol,Name,Asset Class,Assets,Avg. Daily Volume
+AGG,iShares Core U.S. Aggregate Bond ETF,Bond,122008000000.0,8832563.0
+BND,Vanguard Total Bond Market ETF,Bond,124768000000.0,7381729.0
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,Bond,51087200000.0,7505165.0
+BNDX,Vanguard Total International Bond ETF,Bond,64492600000.0,3991156.0
+VCSH,Vanguard Short-Term Corporate Bond ETF,Bond,34369500000.0,5024124.0
+BSV,Vanguard Short-Term Bond ETF,Bond,38179500000.0,3019867.0
+LQD,iShares iBoxx $ Investment Grade Corporate Bond ETF,Bond,28650500000.0,29442350.0
+TIP,iShares TIPS Bond ETF,Bond,13758100000.0,2331470.0
+MBB,iShares MBS ETF,Bond,35953600000.0,3185836.0
+MUB,iShares National Muni Bond ETF,Bond,38474700000.0,5836089.0
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,Bond,20935900000.0,3977049.0
+SCHP,Schwab U.S. TIPS ETF,Bond,12927700000.0,3380908.0
+HYG,iShares iBoxx $ High Yield Corporate Bond ETF,Bond,14540400000.0,48943117.0
+EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,Bond,12371400000.0,7073892.0
+SHY,iShares 1-3 Year Treasury Bond ETF,Bond,24233400000.0,4551319.0
+JPST,JPMorgan Ultra-Short Income ETF,Bond,30336300000.0,7549781.0
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,Bond,14666500000.0,2142440.0
+IUSB,iShares Core Total USD Bond Market ETF,Bond,32652900000.0,2865170.0
+GOVT,iShares U.S. Treasury Bond ETF,Bond,26961300000.0,13807319.0
+IEF,iShares 7-10 Year Treasury Bond ETF,Bond,34310600000.0,9813033.0
+TLT,iShares 20+ Year Treasury Bond ETF,Bond,46811000000.0,41551266.0
+VMBS,Vanguard Mortgage-Backed Securities ETF,Bond,14197800000.0,2061944.0
+BIV,Vanguard Intermediate-Term Bond ETF,Bond,22779200000.0,1521513.0
+VTEB,Vanguard Tax-Exempt Bond ETF,Bond,34607500000.0,7507006.0
+MINT,PIMCO Enhanced Short Maturity Active Exchange-Traded Fund,Bond,13004600000.0,1649881.0
+VGSH,Vanguard Short-Term Treasury ETF,Bond,23033900000.0,3757014.0
+SHV,iShares Short Treasury Bond ETF,Bond,23201600000.0,7030094.0
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,Bond,49452800000.0,12493330.0
+IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,Bond,14354000000.0,2046351.0
+IEI,iShares 3-7 Year Treasury Bond ETF,Bond,16560500000.0,2068668.0
+JNK,SPDR Bloomberg High Yield Bond ETF,Bond,5685410000.0,4780419.0
+VGIT,Vanguard Intermediate-Term Treasury ETF,Bond,31591200000.0,3941489.0
+SCHZ,Schwab U.S. Aggregate Bond ETF,Bond,8459070000.0,1721695.0
+SCHO,Schwab Short-Term U.S. Treasury ETF,Bond,11015900000.0,4205478.0
+USHY,iShares Broad USD High Yield Corporate Bond ETF,Bond,19986800000.0,15399518.0
+SRLN,SPDR Blackstone Senior Loan ETF,Bond,6352590000.0,7869203.0
+SPSB,SPDR Portfolio Short Term Corporate Bond ETF,Bond,7902120000.0,3516684.0
+STIP,iShares 0-5 Year TIPS Bond ETF,Bond,11779300000.0,798444.0
+CWB,SPDR Bloomberg Convertible Securities ETF,Bond,3427110000.0,699179.0
+BKLN,Invesco Senior Loan ETF,Bond,5895350000.0,21602379.0
+FLOT,iShares Floating Rate Bond ETF,Bond,8811770000.0,2086408.0
+HYLB,Xtrackers USD High Yield Corporate Bond ETF,Bond,3345670000.0,2490768.0
+LMBS,First Trust Low Duration Opportunities ETF,Bond,4886350000.0,530640.0
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,Bond,12546100000.0,1511187.0
+SPAB,SPDR Portfolio Aggregate Bond ETF,Bond,8459710000.0,2652197.0
+SUB,iShares Short-Term National Muni Bond ETF,Bond,9109030000.0,643033.0
+ISTB,iShares Core 1-5 Year USD Bond ETF,Bond,4491910000.0,558581.0
+BLV,Vanguard Long-Term Bond ETF,Bond,5955170000.0,1005448.0
+SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,Bond,9291150000.0,6660900.0
+ICSH,iShares Ultra Short-Term Bond Active ETF,Bond,5954550000.0,1462314.0
+SHYG,iShares 0-5 Year High Yield Corporate Bond ETF,Bond,5740900000.0,2114824.0
+VCLT,Vanguard Long-Term Corporate Bond ETF,Bond,12800100000.0,2926981.0
+ANGL,VanEck Fallen Angel High Yield Bond ETF,Bond,2766460000.0,1382844.0
+FIXD,First Trust TCW Opportunistic Fixed Income ETF,Bond,3644780000.0,777892.0
+SHM,SPDR Nuveen Bloomberg Short Term Municipal Bond ETF,Bond,3373090000.0,494116.0
+FALN,iShares Fallen Angels USD Bond ETF,Bond,1743690000.0,1421371.0
+NEAR,iShares Short Duration Bond Active ETF,Bond,3182170000.0,466197.0
+SJNK,SPDR Bloomberg Short Term High Yield Bond ETF,Bond,3951970000.0,4517741.0
+SPTL,SPDR Portfolio Long Term Treasury ETF,Bond,11125600000.0,4357786.0
+FTSM,First Trust Enhanced Short Maturity ETF,Bond,6648110000.0,1040789.0
+BOND,PIMCO Active Bond Exchange-Traded Fund,Bond,5442980000.0,425917.0
+TFI,SPDR Nuveen Bloomberg Municipal Bond ETF,Bond,2974250000.0,1665602.0
+SPMB,SPDR Portfolio Mortgage Backed Bond ETF,Bond,5750120000.0,1073022.0
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,Bond,10523000000.0,2242529.0
+IAGG,iShares Core International Aggregate Bond ETF,Bond,6891130000.0,759867.0
+HYD,VanEck High Yield Muni ETF,Bond,3213210000.0,955648.0
+IVOL,KraneShares Quadratic Interest Rate Volatility and Inflation Hedge ETF,Bond,319312000.0,444690.0
+EMLC,VanEck J. P. Morgan EM Local Currency Bond ETF,Bond,2711610000.0,2545886.0
+SPTS,SPDR Portfolio Short Term Treasury ETF,Bond,5931330000.0,2034171.0
+SPIP,SPDR Portfolio TIPS ETF,Bond,979135000.0,257981.0
+TOTL,SPDR DoubleLine Total Return Tactical ETF,Bond,3478510000.0,401803.0
+SPTI,SPDR Portfolio Intermediate Term Treasury ETF,Bond,8548100000.0,6265011.0
+VWOB,Vanguard Emerging Markets Government Bond ETF,Bond,4708750000.0,695732.0
+GSY,Invesco Ultra Short Duration ETF,Bond,2753900000.0,709473.0
+FTSL,First Trust Senior Loan Fund,Bond,2335470000.0,344859.0
+VNLA,Janus Henderson Short Duration Income ETF,Bond,2564810000.0,398708.0
+PCY,Invesco Emerging Markets Sovereign Debt ETF,Bond,1156950000.0,352883.0
+IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,Bond,2419190000.0,866563.0
+VGLT,Vanguard Long-Term Treasury ETF,Bond,9536030000.0,2645729.0
+PZA,Invesco National AMT-Free Municipal Bond ETF,Bond,2830440000.0,1834303.0
+SLQD,iShares 0-5 Year Investment Grade Corporate Bond ETF,Bond,2197530000.0,290552.0
+GVI,iShares Intermediate Government/Credit Bond ETF,Bond,3398000000.0,155448.0
+BAB,Invesco Taxable Municipal Bond ETF,Bond,948111000.0,190119.0
+FLRN,SPDR Bloomberg Investment Grade Floating Rate ETF,Bond,2739010000.0,1081919.0
+FMB,First Trust Managed Municipal ETF,Bond,1896220000.0,229987.0
+HYLS,First Trust Tactical High Yield ETF,Bond,1615600000.0,304165.0
+JMST,JPMorgan Ultra-Short Municipal Income ETF,Bond,3446050000.0,603887.0
+FBND,Fidelity Total Bond ETF,Bond,18084000000.0,2305424.0
+PULS,PGIM Ultra Short Bond ETF,Bond,10808700000.0,2901214.0
+CMF,iShares California Muni Bond ETF,Bond,3394980000.0,598414.0
+ITM,VanEck Intermediate Muni ETF,Bond,1876070000.0,510116.0
+VUSB,Vanguard Ultra-Short Bond ETF,Bond,5167120000.0,1225068.0
+HYMB,SPDR Nuveen Bloomberg High Yield Municipal Bond ETF,Bond,2496300000.0,1356791.0
+ICVT,iShares Convertible Bond ETF,Bond,2320790000.0,317767.0
+HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund,Bond,1351520000.0,184514.0
+GBIL,ACCESS TREASURY 0-1 YEAR ETF,Bond,6311680000.0,843744.0
+USFR,WisdomTree Floating Rate Treasury Fund,Bond,18693800000.0,6212887.0
+FLCB,Franklin U.S. Core Bond ETF,Bond,2511170000.0,414363.0
+EAGG,iShares ESG Aware US Aggregate Bond ETF,Bond,3759640000.0,412290.0
+TBT,ProShares UltraShort 20+ Year Treasury,Bond,351145000.0,633798.0
+TLH,iShares 10-20 Year Treasury Bond ETF,Bond,9824840000.0,1661532.0
+TDTT,FlexShares iBoxx 3-Year Target Duration TIPS Index Fund,Bond,2364530000.0,478994.0
+PTBD,Pacer Trendpilot US Bond ETF,Bond,160888000.0,52070.0
+HYEM,VanEck Emerging Markets High Yield Bond ETF,Bond,378947000.0,265533.0
+IBDQ,iShares iBonds Dec 2025 Term Corporate ETF,Bond,3143200000.0,481476.0
+EBND,SPDR Bloomberg Emerging Markets Local Bond ETF,Bond,1870690000.0,299286.0
+EDV,Vanguard Extended Duration Treasury ETF,Bond,3286850000.0,1232965.0
+STPZ,PIMCO 1-5 Year US TIPS Index Exchange-Traded Fund,Bond,443934000.0,79827.0
+LDUR,PIMCO Enhanced Low Duration Active ETF,Bond,850039000.0,54787.0
+DIAL,Columbia Diversified Fixed Income Allocation ETF,Bond,341141000.0,118832.0
+QLTA,iShares Aaa - A Rated Corporate Bond ETF,Bond,1623980000.0,350844.0
+IGOV,iShares International Treasury Bond ETF,Bond,672611000.0,260492.0
+UITB,VictoryShares Core Intermediate Bond ETF,Bond,2342580000.0,192827.0
+AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,Bond,819648000.0,128070.0
+BSCP,Invesco BulletShares 2025 Corporate Bond ETF,Bond,3575730000.0,998752.0
+BNDS,Infrastructure Capital Bond Income ETF,Bond,13015200.0,14513.0
+SUSB,iShares ESG Aware 1-5 Year USD Corporate Bond ETF,Bond,965376000.0,216897.0
+IGHG,ProShares Investment Grade-Interest Rate Hedged,Bond,266831000.0,21148.0
+HTRB,Hartford Total Return Bond ETF,Bond,1969820000.0,318033.0
+TIPX,SPDR Bloomberg 1-10 Year TIPS ETF,Bond,1639480000.0,515217.0
+FLCO,Franklin Investment Grade Corporate ETF,Bond,573803000.0,79778.0
+GTO,Invesco Total Return Bond ETF,Bond,1849360000.0,222071.0
+PHB,Invesco Fundamental High Yield® Corporate Bond ETF,Bond,318852000.0,147757.0
+SPLB,SPDR Portfolio Long Term Corporate Bond ETF,Bond,1117750000.0,2605619.0
+BWX,SPDR Bloomberg International Treasury Bond ETF,Bond,1129060000.0,569992.0
+LTPZ,PIMCO 15+ Year US TIPS Index Exchange-Traded Fund,Bond,677525000.0,138143.0
+HYDW,Xtrackers Low Beta High Yield Bond ETF,Bond,190219000.0,47938.0
+SUSC,iShares ESG Aware USD Corporate Bond ETF,Bond,1096090000.0,219819.0
+IBDR,iShares iBonds Dec 2026 Term Corporate ETF,Bond,3233900000.0,606492.0
+JMBS,Janus Henderson Mortgage-Backed Securities ETF,Bond,5281320000.0,768733.0
+CORP,PIMCO Investment Grade Corporate Bond Index ETF,Bond,1328640000.0,76860.0
+IGBH,iShares Interest Rate Hedged Long-Term Corporate Bond ETF,Bond,98994000.0,74983.0
+CMBS,iShares CMBS ETF,Bond,425909000.0,60195.0
+SGOV,iShares 0-3 Month Treasury Bond ETF,Bond,44268300000.0,11171190.0
+GIGB,Goldman Sachs Access Investment Grade Corporate Bond ETF,Bond,707998000.0,112881.0
+AGZ,iShares Agency Bond ETF,Bond,593350000.0,46587.0
+UCON,First Trust TCW Unconstrained Plus Bond ETF,Bond,3205860000.0,1087722.0
+FLTR,VanEck IG Floating Rate ETF,Bond,2322280000.0,1485713.0
+TDTF,FlexShares iBoxx 5-Year Target Duration TIPS Index Fund,Bond,776527000.0,189202.0
+LQDH,iShares Interest Rate Hedged Corporate Bond ETF,Bond,468963000.0,73930.0
+VTC,Vanguard Total Corporate Bond ETF,Bond,1169490000.0,82132.0
+TBF,ProShares Short 20+ Year Treasury,Bond,70931900.0,174252.0
+MUNI,PIMCO Intermediate Municipal Bond Active Exchange-Traded Fund,Bond,1887400000.0,306241.0
+SCHJ,Schwab 1-5 Year Corporate Bond ETF,Bond,510016000.0,111587.0
+BSCQ,Invesco BulletShares 2026 Corporate Bond ETF,Bond,4219140000.0,748516.0
+HYGV,FlexShares High Yield Value-Scored Bond Index Fund,Bond,1280310000.0,242765.0
+BNDW,Vanguard Total World Bond ETF,Bond,1100340000.0,96902.0
+PWZ,Invesco California AMT-Free Municipal Bond ETF,Bond,663520000.0,216429.0
+SPHY,SPDR Portfolio High Yield Bond ETF,Bond,7499590000.0,6750825.0
+EUSB,iShares ESG Advanced Total USD Bond Market ETF,Bond,678339000.0,59462.0
+NYF,iShares New York Muni Bond ETF,Bond,843816000.0,105670.0
+SMMU,PIMCO Short Term Municipal Bond Active ETF,Bond,771366000.0,113176.0
+IBDS,iShares iBonds Dec 2027 Term Corporate ETF,Bond,2974780000.0,599384.0
+LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,Bond,298482000.0,79771.0
+CEMB,iShares J.P. Morgan EM Corporate Bond ETF,Bond,366481000.0,56122.0
+IG,Principal Investment Grade Corporate Active ETF,Bond,95559600.0,17722.0
+MMIN,NYLI MacKay Muni Insured ETF,Bond,446754000.0,110595.0
+GNMA,iShares GNMA Bond ETF,Bond,343837000.0,30490.0
+EMHY,iShares J.P. Morgan EM High Yield Bond ETF,Bond,425851000.0,107729.0
+VRIG,Invesco Variable Rate Investment Grade ETF,Bond,1293870000.0,667978.0
+ULST,SPDR SSgA Ultra Short Term Bond ETF,Bond,625520000.0,167183.0
+FTSD,Franklin Short Duration U.S. Government ETF,Bond,219689000.0,28937.0
+WIP,SPDR FTSE International Government Inflation-Protected Bond ETF,Bond,331768000.0,51190.0
+GBF,iShares Government/Credit Bond ETF,Bond,153832000.0,16587.0
+SHYD,VanEck Short High Yield Muni ETF,Bond,314811000.0,76889.0
+VBND,Vident U.S. Bond Strategy ETF,Bond,445511000.0,22789.0
+GOVZ,iShares 25+ Year Treasury STRIPS Bond ETF,Bond,256136000.0,900821.0
+FLGV,Franklin U.S. Treasury Bond ETF,Bond,990558000.0,214584.0
+SPBO,SPDR Portfolio Corporate Bond ETF,Bond,1647290000.0,1269783.0
+ZROZ,PIMCO 25+ Year Zero Coupon US Treasury Index Exchange-Traded Fund,Bond,1409170000.0,452468.0
+BSCR,Invesco BulletShares 2027 Corporate Bond ETF,Bond,3356180000.0,1266144.0
+TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares,Bond,4426160000.0,7900205.0
+NUAG,Nuveen Enhanced Yield U.S. Aggregate Bond ETF,Bond,57493300.0,32910.0
+RAVI,FlexShares Ultra-Short Income Fund,Bond,1230800000.0,88570.0
+ILTB,iShares Core 10+ Year USD Bond ETF,Bond,586711000.0,72587.0
+FMHI,First Trust Municipal High Income ETF,Bond,724705000.0,106954.0
+SCHI,Schwab 5-10 Year Corporate Bond ETF,Bond,8274910000.0,979514.0
+TMV,Direxion Daily 20+ Year Treasury Bear 3x Shares,Bond,187959000.0,1513959.0
+SMB,VanEck Short Muni ETF,Bond,263343000.0,102471.0
+GSST,Goldman Sachs Ultra Short Bond ETF,Bond,927176000.0,243486.0
+SKOR,FlexShares Credit-Scored US Corporate Bond Index Fund,Bond,501203000.0,68084.0
+JPIB,JPMorgan International Bond Opportunities ETF,Bond,648695000.0,101852.0
+IBDT,iShares iBonds Dec 2028 Term Corporate ETF,Bond,2762380000.0,518629.0
+BSJP,Invesco BulletShares 2025 High Yield Corporate Bond ETF,Bond,963407000.0,282022.0
+FDHY,Fidelity Enhanced High Yield ETF,Bond,359370000.0,54665.0
+MEAR,iShares Short Maturity Municipal Bond Active ETF,Bond,983002000.0,192948.0
+FLTB,Fidelity Limited Term Bond ETF,Bond,224429000.0,27317.0
+FCOR,Fidelity Corporate Bond ETF,Bond,238515000.0,30925.0
+FCVT,First Trust SSI Strategic Convertible Securities ETF,Bond,63475300.0,34005.0
+DEED,First Trust TCW Securitized Plus ETF,Bond,67613000.0,26389.0
+USTB,VictoryShares Short-Term Bond ETF,Bond,1162270000.0,151325.0
+FEMB,First Trust Emerging Markets Local Currency Bond ETF,Bond,138229000.0,36440.0
+NUBD,Nuveen ESG U.S. Aggregate Bond ETF,Bond,399472000.0,74000.0
+HCRB,Hartford Core Bond ETF,Bond,295809000.0,29579.0
+JAAA, Janus Henderson AAA CLO ETF,Bond,19770700000.0,8285376.0
+VCEB,Vanguard ESG U.S. Corporate Bond ETF,Bond,819679000.0,42394.0
+TFLO,iShares Treasury Floating Rate Bond ETF,Bond,7160360000.0,2053943.0
+BGRN,iShares Trust iShares USD Green Bond ETF,Bond,396266000.0,29992.0
+MLN,VanEck Long Muni ETF,Bond,523818000.0,345168.0
+MMIT,NYLI MacKay Muni Intermediate ETF,Bond,818392000.0,258505.0
+GCOR,Goldman Sachs Access U.S. Aggregate Bond ETF,Bond,377673000.0,76294.0
+IBD,Inspire Corporate Bond ETF,Bond,400860000.0,121349.0
+PGHY,Invesco Global ex-US High Yield Corporate Bond ETF,Bond,152020000.0,52078.0
+FLDR,Fidelity Low Duration Bond Factor ETF,Bond,783438000.0,162863.0
+BSCS,Invesco BulletShares 2028 Corporate Bond ETF,Bond,2509970000.0,564821.0
+AGZD,WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund,Bond,128580000.0,58241.0
+TIPZ,PIMCO Broad U.S. TIPS Index ETF,Bond,99113600.0,38138.0
+HMOP,Hartford Municipal Opportunities ETF,Bond,513088000.0,87354.0
+FLIA,Franklin International Aggregate Bond ETF,Bond,671521000.0,121595.0
+XMPT,VanEck CEF Muni Income ETF,Bond,167959000.0,75951.0
+BWZ,SPDR Bloomberg Short Term International Treasury Bond ETF,Bond,234793000.0,102644.0
+LDSF,First Trust Low Duration Strategic Focus ETF,Bond,117231000.0,55030.0
+TTT,ProShares UltraPro Short 20+ Year Treasury,Bond,28203700.0,8956.0
+GHYB,Goldman Sachs Access High Yield Corporate Bond ETF,Bond,135377000.0,12311.0
+BKAG,BNY Mellon Core Bond ETF,Bond,1870750000.0,200530.0
+GHYG,iShares US & Intl High Yield Corp Bond ETF,Bond,164107000.0,28494.0
+STOT,SPDR DoubleLine Short Duration Total Return Tactical ETF,Bond,224322000.0,49930.0
+HYZD,WisdomTree Interest Rate Hedged High Yield Bond Fund,Bond,170229000.0,56725.0
+TAXF,American Century Diversified Municipal Bond ETF,Bond,497854000.0,54068.0
+IBMN,iShares iBonds Dec 2025 Term Muni Bond ETF,Bond,468450000.0,73640.0
+EMHC,SPDR Bloomberg Emerging Markets USD Bond ETF,Bond,172107000.0,161110.0
+OPER,ClearShares Ultra-Short Maturity ETF,Bond,125463000.0,9767.0
+FUMB,First Trust Ultra Short Duration Municipal ETF,Bond,187570000.0,64097.0
+EMNT,PIMCO Enhanced Short Maturity Active ESG Exchange-Traded Fund,Bond,171460000.0,14232.0
+FSMB,First Trust Short Duration Managed Municipal ETF,Bond,441524000.0,115987.0
+JCPB,JPMorgan Core Plus Bond ETF,Bond,6109580000.0,1021414.0
+HYDB,iShares High Yield Systematic Bond ETF,Bond,1559880000.0,426794.0
+SHAG,WisdomTree Yield Enhanced U.S. Short-Term Aggregate Bond Fund,Bond,38071200.0,12833.0
+FLHY,Franklin High Yield Corporate ETF,Bond,565510000.0,115719.0
+IGEB,iShares Investment Grade Systematic Bond ETF,Bond,1060940000.0,180827.0
+IBND,SPDR Bloomberg International Corporate Bond ETF,Bond,217157000.0,87875.0
+GTIP,Goldman Sachs Access Inflation Protected USD Bond ETF,Bond,147150000.0,9259.0
+JSCP,JPMorgan Short Duration Core Plus ETF,Bond,581905000.0,100473.0
+RVNU,Xtrackers Municipal Infrastructure Revenue Bond ETF,Bond,130571000.0,31217.0
+KORP,American Century Diversified Corporate Bond ETF,Bond,431134000.0,58879.0
+BYLD,iShares Yield Optimized Bond ETF,Bond,233432000.0,77100.0
+IBDU,iShares iBonds Dec 2029 Term Corporate ETF,Bond,2517100000.0,543432.0
+OVB,Overlay Shares Core Bond ETF,Bond,50354200.0,19597.0
+RIGS,RiverFront Strategic Income Fund,Bond,89823000.0,44535.0
+HYHG,ProShares High Yield-Interest Rate Hedged ETF,Bond,163134000.0,20075.0
+HYGH,iShares Interest Rate Hedged High Yield Bond ETF,Bond,387395000.0,95356.0
+IBDV,iShares iBonds Dec 2030 Term Corporate ETF,Bond,1709590000.0,465541.0
+BSJQ,Invesco BulletShares 2026 High Yield Corp Bond ETF,Bond,997368000.0,308397.0
+AFIF,Anfield Universal Fixed Income ETF,Bond,134130000.0,62733.0
+EMBD,Global X Emerging Markets Bond ETF,Bond,215452000.0,48935.0
+WBND,Western Asset Total Return ETF,Bond,12793300.0,9410.0
+IMTB,iShares Core 5-10 Year USD Bond ETF,Bond,242915000.0,30605.0
+BNDC,FlexShares Core Select Bond Fund Core Select Bond Fund,Bond,128812000.0,26210.0
+PICB,Invesco International Corporate Bond ETF,Bond,137765000.0,31283.0
+IBMO,iShares iBonds Dec 2026 Term Muni Bond ETF,Bond,504863000.0,73416.0
+HYXF,iShares ESG Advanced High Yield Corporate Bond ETF,Bond,176945000.0,33575.0
+FLMB,Franklin Municipal Green Bond ETF,Bond,106925000.0,26594.0
+ELD,WisdomTree Emerging Markets Local Debt Fund,Bond,69825600.0,11570.0
+TBX,ProShares Short 7-10 Year Treasury,Bond,12175100.0,9289.0
+BSCT,Invesco BulletShares 2029 Corporate Bond ETF,Bond,1919080000.0,554859.0
+PZT,Invesco New York AMT-Free Municipal Bond ETF,Bond,133529000.0,29432.0
+RFCI,RiverFront Dynamic Core Income ETF,Bond,21099500.0,2414.0
+CBON,VanEck China Bond ETF,Bond,17620700.0,3921.0
+FIBR,iShares U.S. Fixed Income Balanced Risk Systematic ETF,Bond,69311000.0,3556.0
+FCAL,First Trust California Municipal High Income ETF,Bond,262482000.0,18517.0
+HTAB,Hartford Schroders Tax-Aware Bond ETF,Bond,391728000.0,158290.0
+MBSD,FlexShares Disciplined Duration MBS Index Fund,Bond,82469800.0,23941.0
+IHY,VanEck International High Yield Bond ETF,Bond,25466500.0,15786.0
+JPIE,JPMorgan Income ETF,Bond,3305210000.0,700814.0
+IIGD,Invesco Investment Grade Defensive ETF,Bond,25610600.0,17737.0
+NUHY,Nuveen ESG High Yield Corporate Bond ETF,Bond,93311300.0,35479.0
+FISR,SPDR SSGA Fixed Income Sector Rotation ETF,Bond,356563000.0,96162.0
+OWNS,CCM Affordable Housing MBS ETF,Bond,133488000.0,15516.0
+UCRD, VictoryShares Corporate Bond ETF,Bond,135333000.0,167.0
+MUSI,American Century Multisector Income ETF,Bond,184881000.0,13508.0
+JMUB,JPMorgan Municipal ETF,Bond,2598820000.0,528486.0
+GRNB,VanEck Green Bond ETF,Bond,124468000.0,21057.0
+EMTL,SPDR DoubleLine Emerging Markets Fixed Income ETF,Bond,97852300.0,13892.0
+HYBB,iShares BB Rated Corporate Bond ETF,Bond,212943000.0,125330.0
+AVIG,Avantis Core Fixed Income ETF,Bond,1075050000.0,139644.0
+SCHQ,Schwab Long-Term U.S. Treasury ETF,Bond,938700000.0,454417.0
+SHYL,Xtrackers Short Duration High Yield Bond ETF,Bond,146623000.0,34462.0
+FFIU,UVA Unconstrained Medium-Term Fixed Income ETF,Bond,45922800.0,4106.0
+LQDI,iShares Inflation Hedged Corporate Bond ETF,Bond,88244800.0,9435.0
+LQDB,iShares BBB Rated Corporate Bond ETF,Bond,42063800.0,1243.0
+IBMQ,iShares iBonds Dec 2028 Term Muni Bond ETF,Bond,429278000.0,82351.0
+ISHG,iShares 1-3 Year International Treasury Bond ETF,Bond,156672000.0,48971.0
+JPMB,JPMorgan USD Emerging Markets Sovereign Bond ETF,Bond,48529000.0,132214.0
+DYLD,LeaderShares Dynamic Yield ETF,Bond,55002500.0,15548.0
+PST,ProShares UltraShort 7-10 Year Treasury,Bond,15215900.0,19449.0
+HYXU,iShares International High Yield Bond ETF,Bond,41580100.0,5998.0
+RDFI,Rareview Dynamic Fixed Income ETF,Bond,51165800.0,12214.0
+PHYL,PGIM Active High Yield Bond ETF,Bond,249834000.0,80321.0
+IBMP,iShares iBonds Dec 2027 Term Muni Bond ETF,Bond,516926000.0,82435.0
+LKOR,FlexShares Credit-Scored US Long Corporate Bond Index Fund,Bond,34481100.0,3700.0
+SJB,ProShares Short High Yield,Bond,149093000.0,453379.0
+EMCB,WisdomTree Emerging Markets Corporate Bond Fund,Bond,70792700.0,5775.0
+FLMI,Franklin Dynamic Municipal Bond ETF,Bond,581875000.0,278160.0
+FLBL,Franklin Senior Loan ETF Franklin Liberty Senior Loan Fund,Bond,1031260000.0,673008.0
+ARCM,Arrow Reserve Capital Management ETF,Bond,46197800.0,1095.0
+PBTP, Invesco 0-5 Yr US TIPS ETF,Bond,55035200.0,17213.0
+SEIX,Virtus Seix Senior Loan ETF,Bond,302277000.0,153600.0
+PVI,Invesco Floating Rate Municipal Income ETF,Bond,28546500.0,6248.0
+UBT,ProShares Ultra 20+ Year Treasury,Bond,146980000.0,281186.0
+FEIG,FlexShares ESG & Climate Investment Grade Corporate Core Index Fund,Bond,44043000.0,4376.0
+PFIG,Invesco Fundamental Investment Grade Corporate Bond ETF,Bond,83698300.0,29683.0
+BKHY,BNY Mellon High Yield ETF,Bond,188406000.0,92195.0
+OVT,Overlay Shares Short Term Bond ETF,Bond,60658200.0,46425.0
+PIFI,ClearShares Piton Intermediate Fixed income ETF,Bond,100909000.0,1263.0
+BSJR,Invesco BulletShares 2027 High Yield Corporate Bond ETF,Bond,448589000.0,131419.0
+MBND,SPDR Nuveen Municipal Bond ETF,Bond,27986800.0,17703.0
+XOVR,ERShares Private-Public Crossover ETF,Bond,288023000.0,389797.0
+THY,Toews Agility Shares Dynamic Tactical Income ETF,Bond,36682500.0,14017.0
+OBND,SPDR Loomis Sayles Opportunistic Bond ETF,Bond,45589200.0,5610.0
+NUSA,Nuveen ESG 1-5 Year U.S. Aggregate Bond ETF,Bond,32514000.0,6052.0
+IBHE,iShares iBonds 2025 Term High Yield & Income ETF,Bond,578546000.0,180651.0
+AVSF,Avantis Short-Term Fixed Income ETF,Bond,600489000.0,41035.0
+MINO,PIMCO Municipal Income Opportunities Active Exchange-Traded Fund,Bond,285536000.0,76222.0
+IHYF,Invesco High Yield Bond Factor ETF,Bond,44545500.0,25030.0
+BSMP,Invesco BulletShares 2025 Municipal Bond ETF,Bond,241748000.0,50592.0
+MTGP,WisdomTree Mortgage Plus Bond Fund,Bond,56360200.0,9613.0
+SPSK,SP Funds Dow Jones Global Sukuk ETF,Bond,302471000.0,155430.0
+TAGG,T. Rowe Price QM U.S. Bond ETF,Bond,1261250000.0,149417.0
+FLRT,Pacer Pacific Asset Floating Rate High Income ETF,Bond,463016000.0,150338.0
+SIHY,Harbor Scientific Alpha High-Yield ETF,Bond,170816000.0,44443.0
+SIFI,Harbor Scientific Alpha Income ETF,Bond,32991800.0,397.0
+LGOV,First Trust Long Duration Opportunities ETF,Bond,684060000.0,287159.0
+IBTH,iShares iBonds Dec 2027 Term Treasury ETF,Bond,1488970000.0,440590.0
+UJB,ProShares Ultra High Yield,Bond,4209500.0,14016.0
+BKUI,BNY Mellon Ultra Short Income ETF,Bond,213856000.0,18852.0
+TYO,Direxion Daily 7-10 Year Treasury Bear 3x Shares,Bond,11957800.0,30165.0
+BSCU,Invesco BulletShares 2030 Corporate Bond ETF,Bond,1512740000.0,523168.0
+AVMU,Avantis Core Municipal Fixed Income ETF,Bond,148233000.0,32679.0
+PAB,PGIM Active Aggregate Bond ETF,Bond,62512500.0,10208.0
+BSMQ,Invesco BulletShares 2026 Municipal Bond ETF,Bond,268307000.0,55692.0
+INMU,iShares Intermediate Muni Income Active ETF,Bond,69322200.0,43505.0
+GSIG,Goldman Sachs Access Investment Grade Corporate 1-5 Year Bond ETF,Bond,7057500.0,425.0
+KHYB,KraneShares Asia Pacific High Income USD Bond ETF,Bond,23557000.0,5762.0
+TYD,Direxion Daily 7-10 Year Treasury Bull 3x Shares,Bond,50071300.0,88944.0
+TBUX,T. Rowe Price Ultra Short-Term Bond ETF,Bond,431636000.0,96984.0
+IBTF,iShares iBonds Dec 2025 Term Treasury ETF,Bond,2130500000.0,651198.0
+HYUP,Xtrackers High Beta High Yield Bond ETF,Bond,12086100.0,1686.0
+NFLT,Virtus Newfleet Multi-Sector Bond ETF,Bond,236470000.0,68194.0
+TOTR,T. Rowe Price Total Return ETF,Bond,548799000.0,58059.0
+WINC,Western Asset Short Duration Income ETF,Bond,12041600.0,5481.0
+RTAI,Rareview Tax Advantaged Income ETF,Bond,17230800.0,1716.0
+JHCB,John Hancock Corporate Bond ETF,Bond,54945400.0,9248.0
+IBHF,iShares iBonds 2026 Term High Yield and Income ETF,Bond,746430000.0,349541.0
+UST,ProShares Ultra 7-10 Year Treasury,Bond,19560100.0,26344.0
+ELQD,iShares ESG Advanced Investment Grade Corporate Bond ETF,Bond,11946000.0,571.0
+JHMB,John Hancock Mortgage-Backed Securities ETF,Bond,128002000.0,66251.0
+QCON,American Century Quality Convertible Securities ETF,Bond,45688500.0,3775.0
+IBTI,iShares iBonds Dec 2028 Term Treasury ETF,Bond,990305000.0,258025.0
+BSMS,Invesco BulletShares 2028 Municipal Bond ETF,Bond,164470000.0,48906.0
+BSMR,Invesco BulletShares 2027 Municipal Bond ETF,Bond,234401000.0,55389.0
+IBTJ,iShares iBonds Dec 2029 Term Treasury ETF,Bond,643161000.0,238497.0
+JHMU,John Hancock Dynamic Municipal Bond ETF,Bond,25150100.0,6760.0
+ADFI,Anfield Dynamic Fixed Income ETF,Bond,46244300.0,22605.0
+IBTG,iShares iBonds Dec 2026 Term Treasury ETF,Bond,1840980000.0,444773.0
+IBDW,iShares iBonds Dec 2031 Term Corporate ETF,Bond,1441470000.0,276956.0
+VABS,Virtus Newfleet ABS/MBS ETF,Bond,52165500.0,35400.0
+BSMT,Invesco BulletShares 2029 Municipal Bond ETF,Bond,176794000.0,49908.0
+BSJS,Invesco BulletShares 2028 High Yield Corporate Bond ETF,Bond,378962000.0,120390.0
+FMNY,First Trust New York Municipal High Income ETF,Bond,19295300.0,2097.0
+MIG,VanEck Moody's Analytics IG Corporate Bond ETF,Bond,20996400.0,8459.0
+SSFI,Day Hagan/Ned Davis Research Smart Sector Fixed Income ETF,Bond,36259500.0,14763.0
+SMI,VanEck HIP Sustainable Muni ETF,Bond,11074000.0,479.0
+IBHG,iShares iBonds 2027 Term High Yield and Income ETF,Bond,266897000.0,109771.0
+OVM,Overlay Shares Municipal Bond ETF,Bond,28190000.0,10348.0
+BSMU,Invesco BulletShares 2030 Municipal Bond ETF,Bond,156436000.0,50375.0
+FIGB,Fidelity Investment Grade Bond ETF,Bond,196809000.0,40492.0
+AAA,Alternative Access First Priority CLO Bond ETF,Bond,42308400.0,29675.0
+BILS,SPDR Bloomberg 3-12 Month T-Bill ETF,Bond,3929700000.0,516979.0
+MBBB,VanEck Moody's Analytics BBB Corporate Bond ETF,Bond,8411100.0,1465.0
+LDRI,iShares iBonds 1-5 Year TIPS Ladder ETF,Bond,6083400.0,6660.0
+FSEC,Fidelity Investment Grade Securitized ETF,Bond,3423600000.0,885595.0
+CRDT,Simplify Opportunistic Income ETF,Bond,104509000.0,34881.0
+TFJL,Innovator 20+ Year Treasury Bond 5 Floor ETF - July,Bond,42439700.0,35751.0
+HYTR,Counterpoint High Yield Trend ETF,Bond,123904000.0,62975.0
+FPFD,Fidelity Preferred Securities & Income ETF,Bond,53190700.0,19659.0
+TRSY,Xtrackers US 0-1 Year Treasury ETF,Bond,18068400.0,1324.0
+CVRT,Calamos Convertible Equity Alternative ETF,Bond,9534000.0,20994.0
+BNDD,KraneShares Quadratic Deflation ETF,Bond,9105000.0,3481.0
+JOJO,ATAC Credit Rotation ETF,Bond,12610700.0,20892.0
+BSCV,Invesco BulletShares 2031 Corporate Bond ETF,Bond,932016000.0,321794.0
+BSMV,Invesco BulletShares 2031 Municipal Bond ETF,Bond,97195200.0,37327.0
+BSJT,Invesco BulletShares 2029 High Yield Corporate Bond ETF,Bond,234088000.0,86071.0
+REC,Emles Real Estate Credit ETF,Bond,2012000.0,3085.0
+TBJL,Innovator 20+ Year Treasury Bond 9 Buffer ETF - July,Bond,34305800.0,21225.0
+TAPR,Innovator Equity Defined Protection ETF - 2 Yr to April 2027,Bond,4183600.0,
+FLUD,Franklin Ultra Short Bond ETF,Bond,100886000.0,4376.0
+IBTK,iShares iBonds Dec 2030 Term Treasury ETF,Bond,419508000.0,139424.0
+UBND,VictoryShares Core Plus Intermediate Bond ETF,Bond,620771000.0,88989.0
+IBTL,iShares iBonds Dec 2031 Term Treasury ETF,Bond,362766000.0,139698.0
+RISR,FolioBeyond Alternative Income and Interest Rate Hedge ETF,Bond,148616000.0,69540.0
+SBND,Columbia Short Duration Bond ETF,Bond,53505000.0,17987.0
+MINN,Mairs & Power Minnesota Municipal Bond ETF,Bond,24774200.0,
+TYA,Simplify Intermediate Term Treasury Futures Strategy ETF,Bond,155597000.0,187625.0
+DFIP,Dimensional Inflation-Protected Securities ETF,Bond,874906000.0,66206.0
+DFNM,Dimensional National Municipal Bond ETF,Bond,1494050000.0,151197.0
+DFSD,Dimensional Short-Duration Fixed Income ETF,Bond,4392190000.0,471525.0
+AHYB,American Century  Select High Yield ETF,Bond,33826700.0,1790.0
+FSIG,First Trust Limited Duration Investment Grade Corporate ETF,Bond,1230550000.0,475406.0
+PTRB,PGIM Total Return Bond ETF,Bond,434637000.0,68086.0
+JHPI,John Hancock Preferred Income ETF,Bond,69438200.0,30660.0
+FCSH,Federated Hermes Short Duration Corporate ETF,Bond,9383500.0,540.0
+FHYS,Federated Hermes Short Duration High Yield ETF,Bond,29005600.0,14232.0
+MMCA,NYLI MacKay California Muni Intermediate ETF,Bond,26128800.0,3675.0
+DFCF,Dimensional Core Fixed Income ETF,Bond,6494240000.0,723373.0
+KDRN,Kingsbarn Tactical Bond ETF,Bond,1159500.0,194.0
+JBBB,Janus Henderson B-BBB CLO ETF,Bond,1353180000.0,1175002.0
+HYRM,Xtrackers Risk Managed USD High Yield Strategy ETF,Bond,45253200.0,3967.0
+AGGH,Simplify Aggregate Bond ETF,Bond,311280000.0,148629.0
+HYBL,SPDR Blackstone High Income ETF,Bond,332707000.0,183629.0
+CDX,Simplify High Yield ETF,Bond,169160000.0,82729.0
+FSYD,Fidelity Sustainable High Yield ETF,Bond,43716600.0,11692.0
+GEMD,Goldman Sachs Access Emerging Markets USD Bond ETF,Bond,73463500.0,8973.0
+XHYC,BondBloxx USD High Yield Bond Consumer Cyclicals Sector ETF,Bond,41334300.0,15759.0
+XHYH,BondBloxx USD High Yield Bond Healthcare Sector ETF,Bond,29830700.0,8905.0
+XHYT,"BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF",Bond,76862000.0,23568.0
+CGCP, Capital Group Core Plus Income ETF,Bond,4635980000.0,1218784.0
+XHYD,BondBloxx USD High Yield Bond Consumer Non-Cyclicals Sector ETF,Bond,23266100.0,7560.0
+HISF,First Trust High Income Strategic Focus ETF,Bond,45899800.0,4068.0
+IBHH,iShares iBonds 2028 Term High Yield and Income ETF,Bond,218328000.0,
+IBHI,iShares iBonds 2029 Term High Yield and Income ETF,Bond,153849000.0,
+XHYE,BondBloxx USD High Yield Bond Energy Sector ETF,Bond,11229800.0,5949.0
+XHYF,BondBloxx USD High Yield Bond Financial & REIT Sector ETF,Bond,39652200.0,11940.0
+XHYI,BondBloxx USD High Yield Bond Industrial Sector ETF,Bond,53566900.0,16140.0
+OACP,OneAscent Core Plus Bond ETF,Bond,161640000.0,24151.0
+DBND,DoubleLine Opportunistic Core Bond ETF,Bond,429719000.0,54359.0
+FSBD,Fidelity Sustainable Core Plus Bond ETF,Bond,11556400.0,2019.0
+FSLD,Fidelity Sustainable Low Duration Bond ETF,Bond,5027300.0,252.0
+LQIG,SPDR MarketAxess Investment Grade 400 Corporate Bond ETF,Bond,50711900.0,1929.0
+MNBD,ALPS Intermediate Municipal Bond ETF,Bond,35582300.0,1267.0
+PFRL,PGIM Floating Rate Income ETF,Bond,86549000.0,38324.0
+XB,BondBloxx B-Rated USD High Yield Corporate Bond ETF,Bond,28656600.0,7378.0
+XBB,BondBloxx BB-Rated USD High Yield Corporate Bond ETF,Bond,276916000.0,89256.0
+XCCC,BondBloxx CCC-Rated USD High Yield Corporate Bond ETF,Bond,120929000.0,70279.0
+LONZ,PIMCO Senior Loan Active Exchange-Traded Fund,Bond,820037000.0,195865.0
+JCPI,JPMorgan Inflation Managed Bond ETF,Bond,683102000.0,
+MBNE,SPDR Nuveen Municipal Bond ESG ETF,Bond,12805100.0,6121.0
+CLOI,VanEck CLO ETF,Bond,1030470000.0,324414.0
+AGIH,iShares Inflation Hedged U.S. Aggregate Bond ETF,Bond,2434700.0,114.0
+AGRH,iShares Interest Rate Hedged U.S. Aggregate Bond ETF,Bond,15382300.0,52943.0
+HYGI,iShares Inflation Hedged High Yield Bond ETF,Bond,5241800.0,4429.0
+CPII,Ionic Inflation Protection ETF,Bond,10174500.0,1313.0
+IBDX,iShares iBonds Dec 2032 Term Corporate ETF,Bond,1019200000.0,191711.0
+XEMD,BondBloxx JP Morgan USD Emerging Markets 1-10 Year Bond ETF,Bond,338633000.0,26032.0
+IRVH,Global X Interest Rate Volatility & Inflation Hedge ETF,Bond,2327100.0,802.0
+IBTM,iShares iBonds Dec 2032 Term Treasury ETF,Bond,316369000.0,121870.0
+SIO,Touchstone Strategic Income ETF,Bond,190067000.0,9702.0
+TUSI,Touchstone Ultra Short Income ETF,Bond,126786000.0,57095.0
+UTWO,US Treasury 2 Year Note ETF,Bond,376987000.0,80606.0
+TBIL,US Treasury 3 Month Bill ETF,Bond,5593040000.0,2352186.0
+UTEN,US Treasury 10 Year Note ETF,Bond,187802000.0,69552.0
+HYGW,iShares High Yield Corporate Bond BuyWrite Strategy ETF,Bond,215380000.0,51297.0
+LQDW,iShares Investment Grade Corporate Bond BuyWrite Strategy ETF,Bond,227464000.0,
+TLTW,iShares 20+ Year Treasury Bond BuyWrite Strategy ETF,Bond,1003190000.0,848005.0
+CSHI,NEOS Enhanced Income 1-3 Month T-Bill ETF,Bond,494340000.0,198462.0
+BNDI,NEOS Enhanced Income Aggregate Bond ETF,Bond,82323000.0,12846.0
+BSCW,Invesco BulletShares 2032 Corporate Bond ETF,Bond,787817000.0,177152.0
+BSJU,Invesco BulletShares 2030 High Yield Corporate Bond ETF,Bond,109586000.0,32408.0
+TAFI,AB Tax-Aware Short Duration Municipal ETF,Bond,696986000.0,209995.0
+YEAR,AB Ultra Short Income ETF,Bond,1341900000.0,229722.0
+XFIV,BondBloxx Bloomberg Five Year Target Duration US Treasury ETF,Bond,161289000.0,489932.0
+XHLF,BondBloxx Bloomberg Six Month Target Duration US Treasury ETF,Bond,1067170000.0,250984.0
+XSVN,BondBloxx Bloomberg Seven Year Target Duration US Treasury ETF,Bond,139596000.0,24070.0
+XTEN,BondBloxx Bloomberg Ten Year Target Duration US Treasury ETF,Bond,550303000.0,215744.0
+XTRE,BondBloxx Bloomberg Three Year Target Duration US Treasury ETF,Bond,148728000.0,37963.0
+XTWO,BondBloxx Bloomberg Two Year Target Duration US Treasury ETF,Bond,128726000.0,33744.0
+XTWY,BondBloxx Bloomberg Twenty Year Target Duration US Treasury ETF,Bond,58452200.0,11537.0
+XONE,BondBloxx Bloomberg One Year Target Duration US Treasury ETF,Bond,602931000.0,140225.0
+SDSI,American Century Short Duration Strategic Income ETF,Bond,76431200.0,13138.0
+DFSB,Dimensional Global Sustainability Fixed Income ETF,Bond,451232000.0,35237.0
+HIYS,Invesco High Yield Select ETF,Bond,7654500.0,4025.0
+ICLO,Invesco AAA CLO Floating Rate Note ETF,Bond,302932000.0,221256.0
+BOXX,Alpha Architect 1-3 Month Box ETF,Bond,5795820000.0,891860.0
+CLOA,iShares AAA CLO Active ETF,Bond,782464000.0,356824.0
+CLOZ,Eldridge BBB-B CLO ETF,Bond,640092000.0,1071054.0
+BBAG,JPMorgan BetaBuilders U.S. Aggregate Bond ETF,Bond,1172830000.0,235956.0
+BBCB,JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF,Bond,37638000.0,4971.0
+BBHY,JPMorgan BetaBuilders USD High Yield Corporate Bond ETF,Bond,462375000.0,245022.0
+CVSB,Calvert Ultra-Short Investment Grade ETF,Bond,174812000.0,41979.0
+GMUN,Goldman Sachs Community Municipal Bond ETF,Bond,9654000.0,248.0
+VTES,Vanguard Short-Term Tax Exempt Bond ETF,Bond,902146000.0,89340.0
+FXED,Sound Enhanced Fixed Income ETF,Bond,38578800.0,8719.0
+BBIB,JPMorgan BetaBuilders U.S. Treasury Bond 3-10 Year ETF,Bond,21102300.0,1167.0
+BBLB,JPMorgan BetaBuilders U.S. Treasury Bond 20+ Year ETF,Bond,10867700.0,1662.0
+BBSB,JPMorgan BetaBuilders U.S. Treasury Bond 1-3 Year ETF,Bond,31956500.0,6398.0
+HYFI,AB High Yield ETF,Bond,176847000.0,31005.0
+PYLD,PIMCO Multisector Bond Active Exchange-Traded Fund,Bond,4638570000.0,2242246.0
+SCYB,Schwab High Yield Bond ETF,Bond,986370000.0,508503.0
+CLOX,Eldridge AAA CLO ETF,Bond,132723000.0,106559.0
+VETZ,Academy Veteran Impact ETF,Bond,72999900.0,1586.0
+GOVI,Invesco Equal Weight 0-30 Year Treasury ETF,Bond,862074000.0,299051.0
+RINC,AXS Real Estate Income ETF,Bond,33937000.0,5030.0
+TBLL,Invesco Short Term Treasury ETF,Bond,2509210000.0,308606.0
+HYSA,BondBloxx USD High Yield Bond Sector Rotation ETF,Bond,30212900.0,13489.0
+VSHY,Virtus Newfleet Short Duration High Yield Bond ETF,Bond,30765200.0,21383.0
+SMTH,ALPS | Smith Core Plus Bond ETF,Bond,1710840000.0,393760.0
+CPLS,AB Core Plus Bond ETF,Bond,153392000.0,27590.0
+EYEG,AB Corporate Bond ETF,Bond,26067700.0,1595.0
+TAFL,AB Tax-Aware Long Municipal ETF,Bond,29155300.0,6313.0
+TAFM,AB Tax-Aware Intermediate Municipal ETF,Bond,219755000.0,89710.0
+BBBI,BondBloxx BBB Rated 5-10 Year Corporate Bond ETF,Bond,12457000.0,3654.0
+BBBL,BondBloxx BBB Rated 10+ Year Corporate Bond ETF,Bond,6916900.0,2681.0
+BBBS,BondBloxx BBB Rated 1-5 Year Corporate Bond ETF,Bond,111365000.0,26602.0
+DCRE,DoubleLine Commercial Real Estate ETF,Bond,266462000.0,35030.0
+JLQD,Janus Henderson Corporate Bond ETF,Bond,30877500.0,103.0
+SYFI,AB Short Duration High Yield ETF,Bond,723925000.0,187556.0
+SDFI,AB Short Duration Income ETF,Bond,116659000.0,20873.0
+BMDL,VictoryShares WestEnd Economic Cycle Bond ETF,Bond,61231700.0,133.0
+FLXR,TCW Flexible Income ETF,Bond,854121000.0,210611.0
+MMKT,Texas Capital Government Money Market ETF,Bond,45099000.0,
+HYBI,NEOS Enhanced Income Credit Select ETF,Bond,136193000.0,13951.0
+TLTP,Amplify Bloomberg U.S. Treasury 12% Premium Income ETF,Bond,9501600.0,7990.0
+TLTI,NEOS Enhanced Income 20+ Year Treasury Bond ETF,Bond,2731400.0,
+VCRM,Vanguard Core Tax-Exempt Bond ETF,Bond,,
+VSDM,Vanguard Short Duration Tax-Exempt Bond ETF,Bond,,
