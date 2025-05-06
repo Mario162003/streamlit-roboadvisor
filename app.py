@@ -244,7 +244,7 @@ def _next_step():
 # ╚═══════════════════════════════════════════════════════════════════════╝
 if st.session_state.step == 0:
     st.markdown("<h1 style='text-align: center;'>🧮 " + 
-                ("Cuestionario de Perfil de Riesgo" if lang == "ES" else "Risk Profile Questionnaire") + 
+                ("Cuestionario de Perfil de Riesgo + Simulación de cartera" if lang == "ES" else "Risk Profile Questionnaire + Portfolio simulation") + 
                 "</h1>", unsafe_allow_html=True)
     st.markdown("")
 
