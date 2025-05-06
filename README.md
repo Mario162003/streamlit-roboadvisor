@@ -51,7 +51,7 @@ streamlit_roboadvisor/
 ├── app.py                  # Main Streamlit application
 ├── requirements.txt        # Python dependencies
 ├── modules/                # Custom Python modules (e.g., scoring, portfolio optimization)
-├── etf_data/               # Historical ETF data in CSV format
+├── data/                   # Historical ETF data in CSV format
 └── README.md               # You're reading it!
 ```
 
@@ -127,7 +127,7 @@ streamlit_roboadvisor/
 ├── app.py                  # Script principal de Streamlit
 ├── requirements.txt        # Dependencias del proyecto
 ├── modules/                # Módulos auxiliares (scoring, optimización de carteras, etc.)
-├── etf_data/               # Datos históricos de ETFs en formato CSV
+├── data/                   # Datos históricos de ETFs en formato CSV
 └── README.md               # Este archivo
 ```
 
