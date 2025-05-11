@@ -9,6 +9,8 @@ from Modules.portfolio_variables import *
 from Modules.portfolio_opt import *
 from Modules.portfolioconstruction_fx import *
 from Modules.rebalancing_fx import *
+import plotly.express as px
+
 
 
 # ───────────────────────── helper de recarga ──────────────────────────
@@ -575,6 +577,24 @@ if "backtest_hist" in st.session_state:
 
     st.plotly_chart(fig, use_container_width=True)
 
+    # --- Distribución final de pesos ---
+    with st.expander("🥧 Distribución final de pesos" if lang == "ES" else "🥧 Final Portfolio Allocation"):
+
+        final_weights = hist.xs("Weight", level=1, axis=1).iloc[-1]
+        filtered_weights = final_weights[final_weights > 0]
+
+        if filtered_weights.empty:
+            st.warning("No hay activos con peso positivo en la última fecha." if lang == "ES"
+                   else "No assets have a positive weight at the end.")
+        else:
+            fig_pie = px.pie(
+                names=filtered_weights.index,
+                values=filtered_weights.values,
+                title="Composición final del portafolio" if lang == "ES"
+                  else "Final Portfolio Composition"
+            )
+            fig_pie.update_traces(textinfo='percent+label')
+            st.plotly_chart(fig_pie, use_container_width=True)
 
 
     # --- Detalle de pesos por activo ---
